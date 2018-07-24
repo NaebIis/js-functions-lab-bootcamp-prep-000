@@ -8,7 +8,6 @@ function happyHolidayTo(holiday, name) {
   return (`Happy ${holiday}, ${name}!`)
 }
 function holidayCountdown(holiday, days) { 
-  if (holidayCountdown("Mother's Day", 20))
     return `It\'s ${days} days until ${holiday}!` 
 }
 
