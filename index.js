@@ -9,5 +9,7 @@ function happyHolidayTo(holiday, name) {
 }
 function holidayCountdown(holiday, days) { 
   if (holidayCountdown())
+  return ()
+}
 
 
